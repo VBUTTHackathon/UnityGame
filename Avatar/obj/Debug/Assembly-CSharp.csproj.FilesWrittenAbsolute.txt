@@ -1,0 +1,13 @@
+/home/ines/Hack days/Unity/Map/Temp/bin/Debug/UnityEngine.dll
+/home/ines/Hack days/Unity/Map/Temp/bin/Debug/UnityEditor.dll
+/home/ines/Hack days/Unity/Map/Temp/bin/Debug/UnityEngine.UI.dll
+/home/ines/Hack days/Unity/Map/Temp/bin/Debug/UnityEngine.Networking.dll
+/home/ines/Hack days/Unity/Map/Temp/bin/Debug/Unity.DataContract.dll
+/home/ines/Hack days/Unity/Map/Temp/bin/Debug/Mono.Cecil.dll
+/home/ines/Hack days/Unity/Map/Temp/bin/Debug/Unity.SerializationLogic.dll
+/home/ines/Hack days/Unity/Map/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/home/ines/Hack days/Unity/Map/Temp/bin/Debug/Unity.UNetWeaver.dll
+/home/ines/Hack days/Unity/Map/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/home/ines/Hack days/Unity/Map/Temp/bin/Debug/Unity.CecilTools.dll
+/home/ines/Hack days/Unity/Map/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/home/ines/Hack days/Unity/Map/Temp/bin/Debug/Mono.Cecil.Mdb.dll
